@@ -1,5 +1,8 @@
 # Lab1_RDD_Pipeline.py
 # Name: Madrilejos, Polly Cristy P.
+#       Bonaobra, Ian Raphael
+#       Borjal, Daryl James
+#       Baraquiel, Danilyn Krixtin 
 # Lab No. 1
 # Date: 02/14/2026
 # Objective: Implement a distributed data processing pipeline using Apache Spark RDDs
