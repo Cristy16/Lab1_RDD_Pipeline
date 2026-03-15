@@ -1,4 +1,4 @@
-# Lab#.py
+# Lab3.py
 # Group Lab Activity - PySpark Netflix Dataset
 # Members: Borjal D., Baraquiel, Bonaobra, Madrilejos
 
